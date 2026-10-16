@@ -1,6 +1,7 @@
 [package]
 name = "codepatchreplay"
-version = "0.0.1"
+version = "0.1.0"
+authors = ["Intermountainh8ter"]
 edition = "2021"
 license = "MIT"
 description = "Pre-registered code-generation reproducibility: pin the target, template, sampling, and task→test map; score pass@k with 95% bootstrap CIs and flag patch-identity leaks against a reference set."
