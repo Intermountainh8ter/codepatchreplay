@@ -25,3 +25,5 @@ path = "src/main.rs"
 [lib]
 name = "codepatchreplay"
 path = "src/lib.rs"
+
+[workspace]
